@@ -1,0 +1,20 @@
+.container{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 150px;
+    background-image: url(https://i1.wp.com/alfonsolafuente.blog/wp-content/uploads/2019/09/excuses4.gif?resize=608%2C304&ssl=1);
+   
+}
+.myStyle {
+  margin: 10px auto;
+  text-align: center;
+  font-size: 10px;
+  border-radius: 5px;
+  
+}
+.text{
+    color: white;
+    font-size: 5rem; 
+    text-shadow: 0.1em 0.1em #333;
+}
