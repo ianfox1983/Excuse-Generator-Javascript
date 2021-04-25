@@ -16,7 +16,7 @@ function onLoad(){
     excuse.innerHTML = excuseGenerator(who, action, what, when); // asigna el dato a div="excuse"
 }
 window.onload = function(){
-document.querySelector("#changeExcuse").addEventListener("click",event =>{
+document.querySelector("#changeExcuse").addEventListener("click", event =>{
     onLoad();
 });
 }
